@@ -1,0 +1,32 @@
+html {
+    background-color: pink;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+    border: 10px dotted coral;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+        font-family: "Parisienne", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+#heartcolour {
+    color: red;
+}

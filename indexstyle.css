@@ -1,0 +1,17 @@
+html {
+    background-color: skyblue;
+}
+
+img {
+    width: 30%;
+    margin-left: 35%;
+}
+
+h1 {
+ font-family: "Modak", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: green;
+  font-size: 40px;
+}
